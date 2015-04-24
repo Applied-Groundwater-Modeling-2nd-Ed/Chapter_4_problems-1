@@ -1,11 +1,11 @@
 # Chapter_4_problems
 Anderson Woessner and Hunt (2015) book problems 
 
-This repository is for teaching materials for Chapter 4 of Anderson Woessner and Hunt (2015).  It again uses the Python Notebook approach for creating and exploring the problems from the book.  Instructions for minimum iPython Notebook installation are found here at http://ipython.org/install.html.  In addition, the concepts in Chapter 4 have gone beyond simple problems and now we use MODFLOW to solve the model.  These notebooks use "flopy" to do illustrate MODFLOW modeling concepts (http://modflowpy.github.io/flopydoc/index.html). The flopy software configuration are available from http://modflowpy.github.io/flopydoc/introduction.html#flopy-installation.   
+This repository is for teaching materials for Chapter 4 of Anderson Woessner and Hunt (2015).  It again uses the Python Notebook approach for creating and exploring the problems from the book.  Instructions for minimum iPython Notebook installation are found here at http://ipython.org/install.html.  In addition, the concepts in Chapter 4 have gone beyond simple problems and we now use MODFLOW to solve the model.  These notebooks use "flopy" to  illustrate MODFLOW modeling concepts (http://modflowpy.github.io/flopydoc/index.html). The flopy software configuration are available from http://modflowpy.github.io/flopydoc/introduction.html#flopy-installation.   
 
 One approach is to use the 'Download ZIP' button on the righthand side of the browser window.  This will download a complete zip of all files in the repository and has the correct dependencies to display embedded graphics.  Simply unzip into a local directory (e.g., \Chapter4_problems) that you have read/write rights to run the notebook.  The notebooks encourage the user to try different settings and re-execute the groundwater model to see what the effect is.  However, it is helpful to keep the ZIP file to facilitate quick access to the original working versions.  
 
-Use the hyperlinks below to see a fully executed and static version of the notebooks.  All steps have been executed and all output shown. These can be used to cut and paste to a new Python notebook, or for comparison to local execution of notebooks downloaded from this site.
+Click the hyperlinks below to see a fully executed and static version of the notebooks.  All steps have been executed and all output shown. These can be used to cut and paste to a new Python notebook, or for comparison to local execution of notebooks downloaded from this site.
 
 [P4.1_FlopyIntro_Toth_Flowsystem](http://nbviewer.ipython.org/github/Applied-Groundwater-Modeling-2nd-Ed/Chapter_4_problems-1/blob/master/P4.1_FlopyIntro-Toth_Flowsystem.ipynb)
 
