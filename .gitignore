@@ -38,3 +38,7 @@ P4-1_Toth/P4-1.lpf
 *.upw
 
 .ipynb_checkpoints/P4.4_Flopy_Hubbertville_areal_model_with_pumping-Copy1-checkpoint.ipynb
+
+.ipynb_checkpoints/P4.5_Flopy_Hubbertville_areal_model_BCs-checkpoint.ipynb
+
+.ipynb_checkpoints/P4.6_Flopy_Hubbertville_no_flow_BC_test-checkpoint.ipynb
